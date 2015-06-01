@@ -1,0 +1,5 @@
+wc = used to print number of words, lines, bytes
+wc -l = prints line count
+wc -c = prints bytes
+wc -m = prints character count
+wc -w = prints word count
